@@ -2,7 +2,7 @@ import 'package:bootcamp/widgets/widgets.dart';
 import 'package:flutter/material.dart';
 
 import '../pages/chat_page.dart';
-//
+
 class GroupTile extends StatefulWidget {
   final String userName;
   final String groupId;
