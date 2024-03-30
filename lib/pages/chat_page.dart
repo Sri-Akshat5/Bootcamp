@@ -69,7 +69,7 @@ class _ChatPageState extends State<ChatPage> {
       ),
       body: Stack(
         children: <Widget>[
-          // chat messages here yes
+          // chat messages here 
           chatMessages(),
           Container(
             alignment: Alignment.bottomCenter,
