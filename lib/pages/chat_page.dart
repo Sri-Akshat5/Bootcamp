@@ -31,7 +31,7 @@ class _ChatPageState extends State<ChatPage> {
     getChatandAdmin();
     super.initState();
   }
-
+//
   getChatandAdmin() {
     DatabaseService().getChats(widget.groupId).then((val) {
       setState(() {
