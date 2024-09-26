@@ -26,11 +26,15 @@ Bootcamp is a group-based chatting application built using Flutter and Firebase.
 
 To run this project, you'll need:
 
-
 ### Download APK
-You can download the APK from the following path:
+
+You can download the APK from the following link:
+[Download APK from Google Drive](https://drive.google.com/file/d/1b3Sm8JJCgLuRAbuptaulI2K2FC_mQqC4/view?usp=sharing)
+
+## OR 
+
+You can also download the APK from the following path:
 ```bash
 bootcamp/build/app/outputs/apk/release
-
 ```
 Download the APK and install it on your Android device
